@@ -1,0 +1,9 @@
+    {
+
+    "SUCCESS":"Success",
+    "UNAUTHORIZED":"unthorized",
+    "BLOG_CREATED":"Blog created successfully",
+    "BLOG_UPDATED":"Blog updated successfully",
+    "BLOG_DELETED":"Blog deleted successfully"
+
+    }

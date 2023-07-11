@@ -1,0 +1,29 @@
+{
+  "name": "enverx-be-developer-assignment",
+  "version": "1.0.0",
+  "description": "[![N|Solid](https://iili.io/Hi9giog.png)](https://www.enverx.com/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goyalVk/enverx-be-developer-assignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goyalVk/enverx-be-developer-assignment/issues"
+  },
+  "homepage": "https://github.com/goyalVk/enverx-be-developer-assignment#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-validator": "^7.0.1",
+    "moment": "^2.29.4",
+    "mongoose": "^7.3.2",
+    "mongoose-aggregate-paginate-v2": "^1.0.6"
+  }
+}
